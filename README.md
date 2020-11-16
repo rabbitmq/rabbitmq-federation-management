@@ -1,8 +1,14 @@
 # RabbitMQ Federation Management Plugin
 
+## This was migrated to https://github.com/rabbitmq/rabbitmq-server
+
+This repository has been moved to the main unified RabbitMQ "monorepo", including all open issues. You can find the source under [/deps/rabbitmq_federation_management](https://github.com/rabbitmq/rabbitmq-server/tree/master/deps/rabbitmq_federation_management).
+All issues have been transferred.
+
+## Overview
+
 This plugin adds information on federation link status to the management
 plugin.
-
 
 ## Installation
 
